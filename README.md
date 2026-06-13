@@ -1,8 +1,8 @@
 <h1 align="center">Jessem</h1>
 
 <p align="center">
-  Software engineering student in Tunisia building data/AI tools, security automation,
-  and practical web/mobile products.
+  ESPRIT 3rd-year student choosing an AI/Data specialization, full-stack builder,
+  and maker of practical web/mobile products.
 </p>
 
 ---
